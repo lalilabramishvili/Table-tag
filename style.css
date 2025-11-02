@@ -2,6 +2,10 @@ table{
     border: 1px solid black;
     border-collapse: collapse;
 }
+h1{
+    color: violet;
+}
+
 th{
     border: 1px dashed black; color:black; background-color:violet;
 }
